@@ -6,6 +6,8 @@
   
 - 📫 How to reach me: ...
   sangdobae@icloud.com
+  
+- 🥰 I love studying❤︎
 
 <div>
 <img src="https://img.shields.io/badge/django-FFFFFF?style=for-the-badge&logo=#092E20&logoColor=000000"/>
