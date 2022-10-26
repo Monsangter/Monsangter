@@ -1,5 +1,14 @@
 ![Monsangter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monsangter&show_icons=true&theme=radical)
 
+- 🔭 I’m currently working on ...
+  python3, django
+
+- 🌱 I’m currently learning ...
+  python algorithm
+  
+- 📫 How to reach me: ...
+  sangdobae@icloud.com
+
 <div>
 <img src="https://img.shields.io/badge/django-FFFFFF?style=for-the-badge&logo=#092E20&logoColor=000000"/>
 <img src="https://img.shields.io/badge/html-FFFFFF?style=for-the-badge&logo=##E34F26&logoColor=000000"/>
@@ -11,8 +20,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+  python3, django
 
 - 🌱 I’m currently learning ...
+  python algorithm
 
 - 👯 I’m looking to collaborate on ...
 
@@ -21,6 +32,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 
 - 📫 How to reach me: ...
+  sangdobae@icloud.com
 
 - 😄 Pronouns: ...
 
