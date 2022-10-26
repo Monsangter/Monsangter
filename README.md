@@ -11,8 +11,7 @@
 
 <div>
 <img src="https://img.shields.io/badge/django-FFFFFF?style=for-the-badge&logo=#092E20&logoColor=000000"/>
-<img src="https://img.shields.io/badge/html-FFFFFF?style=for-the-badge&logo=##E34F26&logoColor=000000"/>
-<img src="https://img.shields.io/badge/css-FFFFFF?style=for-the-badge&logo=#1572B6&logoColor=000000"/>
+<img src="https://img.shields.io/badge/python-FFFFFF?style=for-the-badge&logo=#3776AB&logoColor=000000"/>
 </div>
 <!--
 **Monsangter/Monsangter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
