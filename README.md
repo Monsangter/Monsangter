@@ -1,7 +1,7 @@
 ![Monsangter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monsangter&show_icons=true&theme=radical)
 
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning:
   python3, django
   
 - 📫 How to reach me: ...
