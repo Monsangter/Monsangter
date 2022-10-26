@@ -1,10 +1,8 @@
 ![Monsangter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monsangter&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-  python3, django
 
 - 🌱 I’m currently learning ...
-  python algorithm
+  python3, django
   
 - 📫 How to reach me: ...
   sangdobae@icloud.com
