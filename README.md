@@ -1,6 +1,6 @@
 ![Monsangter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monsangter&show_icons=true&theme=radical)
 
-- 🎓 Bachelor's Degree Examination for Self-Education computer science.
+- 🎓 Bachelor's Degree Examination for Self-Education - computer science.
 
 - 🌱 I’m currently learning:
   python3, django
