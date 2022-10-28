@@ -11,9 +11,9 @@
 - 🥰 I love studying❤︎
 
 <div>
-<img src="https://img.shields.io/badge/django-FFFFFF?style=for-the-badge&logo=#092E20&logoColor=000000"/>
+<p><img src="https://img.shields.io/badge/django-FFFFFF?style=for-the-badge&logo=#092E20&logoColor=000000"/></p>
   1. 파이보 게시판 클론코딩
-  2. 자취생 식다 추천 프로그램 개발중
+  2. 자취생 식단 추천 프로그램 개발중
 <img src="https://img.shields.io/badge/python-FFFFFF?style=for-the-badge&logo=#3776AB&logoColor=000000"/>
   1. 프로그래머스 알고리즘 문제 하루 3문제씩 꾸준히  풀이중 . 126문제 풀이
 <img src="https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=#000000&logoColor=000000"/>
