@@ -10,6 +10,8 @@
   
 - 🥰 I love studying❤︎
 
+- i usually spend 30 mins for day to improve my english skill, watching english video clips.
+
 <div>
 <img src="https://img.shields.io/badge/django-FFFFFF?style=for-the-badge&logo=#092E20&logoColor=000000"/><br>
   1. 파이보 게시판 클론코딩<br>
