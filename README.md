@@ -7,7 +7,7 @@
   
 - 📫 How to reach me: ...
   sangdobae@icloud.com
-  https://monsangter.tistory.com/manage/design/menu
+  https://monsangter.tistory.com/
   
 - 🥰 I love studying❤︎
 
