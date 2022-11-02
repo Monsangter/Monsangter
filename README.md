@@ -8,6 +8,7 @@
 - 📫 How to reach me: ...
   sangdobae@icloud.com
   https://monsangter.tistory.com/
+  주로 블로그를 통해 공부한것등을 정리하고 있습니다. 
   
 - 🥰 I love studying
 
