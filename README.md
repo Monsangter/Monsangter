@@ -1,6 +1,6 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monsangter)<br>
 ![Monsangter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monsangter&show_icons=true&theme=radical)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monsangter)
+
 
 - 🎓 Bachelor's Degree Examination for Self-study - computer science.
 
