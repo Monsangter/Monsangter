@@ -11,8 +11,8 @@
   sangdobae@icloud.com
   https://monsangter.tistory.com/
   
-- 🥰 실력으로 말한다.
-
+- 🥰 ssss
+- 
 <div>
 <img src="https://img.shields.io/badge/django-FFFFFF?style=for-the-badge&logo=#092E20&logoColor=000000"/><br>
   1. 파이보 게시판 클론코딩<br>
