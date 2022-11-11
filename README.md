@@ -12,7 +12,7 @@
   https://monsangter.tistory.com/
   
 - 🥰 ssss
-- 
+- 꺠닫는중
 <div>
 <img src="https://img.shields.io/badge/django-FFFFFF?style=for-the-badge&logo=#092E20&logoColor=000000"/><br>
   1. 파이보 게시판 클론코딩<br>
