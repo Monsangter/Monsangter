@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning:
   python3, django
   
-- 📫 How to reach me: ...
+- 📫 How to reach me:
   sangdobae@icloud.com
   https://monsangter.tistory.com/
   
