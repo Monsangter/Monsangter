@@ -14,6 +14,8 @@
 - 🥰 밸류 올리기..
 - 꺠닫는중
 <div>
+<img src="https://img.shields.io/badge/django-FFFFFF?style=for-the-badge&logo=#F7DF1E&logoColor=000000"/><br>
+  1. 투두 리스트 클론코딩<br>
 <img src="https://img.shields.io/badge/django-FFFFFF?style=for-the-badge&logo=#092E20&logoColor=000000"/><br>
   1. 파이보 게시판 클론코딩<br>
   2. 가난한 자취생 식단 추천 프로그램 개발목표<br><br>
