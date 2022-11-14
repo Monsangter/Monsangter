@@ -11,7 +11,7 @@
   sangdobae@icloud.com
   https://monsangter.tistory.com/
   
-- 🥰 밸류 올리기..
+- 🥰 성장하고 싶다!!!!!!!!!!!!!
 - 꺠닫는중
 <div>
 
