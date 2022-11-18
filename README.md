@@ -30,7 +30,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-  python3, django
+  python3, django, cs
 
 - 🌱 I’m currently learning ...
   python algorithm
