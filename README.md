@@ -17,7 +17,7 @@
 
 <img src="https://img.shields.io/badge/django-FFFFFF?style=for-the-badge&logo=#092E20&logoColor=000000"/><br>
   1. 파이보 게시판 클론코딩<br>
-  2. 가난한 자취생 식단 추천 프로그램 개발목표<br><br>
+  <br>
 <img src="https://img.shields.io/badge/python-FFFFFF?style=for-the-badge&logo=#3776AB&logoColor=000000"/><br>
   1. 파이썬 통해 알고리즘 문제 하루 꾸준히 풀이하며 블로그에 정리.<br>
   2. 파이썬 모듈, 라이브러리등 개념 꾸준히 공부중.<br><br>
