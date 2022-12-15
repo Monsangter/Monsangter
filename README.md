@@ -1,9 +1,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monsangter)<br><br><br>
 ![Monsangter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monsangter&show_icons=true&theme=radical)
 
-블로그 꾸준히관리요.
-모발이식
-운동도 열심
+
+공식문서..
+
 - 🎓 Bachelor's Degree Examination for Self-study - computer science.
 
 - 🌱 I’m currently learning:
