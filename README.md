@@ -2,7 +2,7 @@
 ![Monsangter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monsangter&show_icons=true&theme=radical)
 
 
-공식문서.
+공식문서.!
 
 - 🎓 Bachelor's Degree Examination for Self-study - computer science.
 
