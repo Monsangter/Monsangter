@@ -5,7 +5,7 @@
 
 - 🎓 Bachelor's Degree Examination for Self-study - computer science.
 
-- 🌱 I’m currently learning:
+- 🌱 I’m currently learning: 
   python3, django
   
 - 📫 How to reach me:
